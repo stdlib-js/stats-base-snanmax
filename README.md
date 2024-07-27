@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import snanmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanmax@deno/mod.js';
+import snanmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanmax@v0.2.2-deno/mod.js';
 ```
 
 #### snanmax( N, x, stride )
@@ -156,7 +156,7 @@ var v = snanmax.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import snanmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanmax@deno/mod.js';
+import snanmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-snanmax@v0.2.2-deno/mod.js';
 
 var x;
 var i;
