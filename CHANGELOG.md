@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-28)
+## Unreleased (2024-12-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`c4c4ed8`](https://github.com/stdlib-js/stdlib/commit/c4c4ed8abb88be48be587bcc9b9235e10de86aa4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`b16b1fe`](https://github.com/stdlib-js/stdlib/commit/b16b1fe5d9d39b7d297d753acdc201160bc5118f) - **chore:** add missing `@private` in benchmarks of `stats/base/*` [(#4306)](https://github.com/stdlib-js/stdlib/pull/4306) _(by Aayush Khanna)_
 -   [`86a3364`](https://github.com/stdlib-js/stdlib/commit/86a336485eabd9a066b964bb3d2ada2174763e68) - **feat:** add C ndarray interface and refactor implementation for `stats/base/snanmax` [(#4287)](https://github.com/stdlib-js/stdlib/pull/4287) _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
